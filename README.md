@@ -19,9 +19,9 @@ This repository archives all the solo projects completed during the **Scrimba "L
 
 | Project # | Project Name | Skills Focused On | Status | Live Demo |
 | :---: | :--- | :--- | :---: | :---: |
-| 01 | **The Daily Dribble Newsletter** | Forms, inputs, buttons, font pairing, newsletter design. | Completed | [View Live](YOUR-GITHUB-PAGES-LINK/03-the-daily-dribble-newsletter/) |
-| 02 | **Digital Business Card** | Flexbox for layout, image handling, general styling. | Completed | [View Live](YOUR-GITHUB-PAGES-LINK/01-digital-business-card/) |
-| 03 | **Amazon Product Page** | *UI replication, visual hierarchy, multiple selectors, and precise box model control* | Not completed | [View Live](YOUR-GITHUB-PAGES-LINK/04-next-project-name/) |
+| 01 | **The Daily Dribble Newsletter** | Forms, inputs, buttons, font pairing, newsletter design. | Completed | [View Live]([YOUR-GITHUB-PAGES-LINK](https://github.com/ahmedfakhery/scrimba-html-css-projects/tree/01-the-daily-dribble-newsletter/) |
+| 02 | **Digital Business Card** | Flexbox for layout, image handling, general styling. | Completed | [View Live](https://github.com/ahmedfakhery/scrimba-html-css-projects/tree/02-digital-business-card/) |
+| 03 | **Amazon Product Page** | *UI replication, visual hierarchy, multiple selectors, and precise box model control* | Not completed | [View Live](https://github.com/ahmedfakhery/scrimba-html-css-projects/tree/03-next-project-name/) |
 
 ---
 
