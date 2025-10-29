@@ -37,7 +37,7 @@ This course provided a strong foundation in:
 ## 🤝 Contact
 
 * **GitHub:** [@ahmedfakhery](https://github.com/ahmedfakhery)
-* **LinkedIn:** [Ahmed Hani Fakhri](www.linkedin.com/in/ahmed-fakhri-6a8559150)
+* **LinkedIn:** [Ahmed Hani Fakhri](https://www.linkedin.com/in/ahmed-fakhri-6a8559150)
 
 ---
 
