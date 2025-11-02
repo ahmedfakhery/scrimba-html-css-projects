@@ -23,7 +23,7 @@ This repository archives all the solo projects completed during the **Scrimba "L
 | 02 | **Digital Business Card** | Flexbox for layout, image handling, general styling. | Completed | [View Live](https://github.com/ahmedfakhery/scrimba-html-css-projects/tree/main/02-digital-business-card/) |
 | 03 | **Amazon Product Page** | *UI replication, visual hierarchy, multiple selectors, and precise box model control* | Completed | [View Live](https://github.com/ahmedfakhery/scrimba-html-css-projects/tree/main/03-amazon-product-page/) |
 | 04 | **Web Agency Hero** | *Hero layout with background image, advanced typography, custom button styling, and the text-underline-offset property.* | Completed | [View Live](https://github.com/ahmedfakhery/scrimba-html-css-projects/tree/main/04-web-agency-hero/) |
-
+| 05 | **Homewn Homeage** | *Hometwon homepage layout for Aden, Yemen country and introduce me as local guide* | Completed | [View Live](https://github.com/ahmedfakhery/scrimba-html-css-projects/tree/main/05-hometown-homepage/) |
 
 ---
 
